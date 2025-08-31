@@ -45,13 +45,13 @@ It features a clean and user-friendly GUI built with **Java Swing**.
 ---
 
 ## 📸 Screenshots
+
 <img width="946" height="580" alt="image" src="https://github.com/user-attachments/assets/d49efca3-592c-495f-91d7-9c01742ff8f0" />
 <img width="946" height="580" alt="image" src="https://github.com/user-attachments/assets/411608fb-cd11-4044-a352-fe118a80a104" />
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/94182dee-651d-440f-9e7f-9e536a6549c7" />
 <img width="940" height="592" alt="image" src="https://github.com/user-attachments/assets/1efd8823-0fe0-4e7c-a24f-b66f62d209b2" />
 
-
-
+---
 
 ## 📄 License
 
