@@ -5,7 +5,7 @@
 ## 📖 Project Overview
 
 ChatAt is a **Java**-based client-server chat application that enables multiple clients to communicate with a server in real-time using **TCP sockets**.
-It features a clean and user-friendly GUI built with **Java Swing**.
+It features a clean and user-friendly GUI built with **Java AWT & SWING**.
 
 ---
 
@@ -15,7 +15,7 @@ It features a clean and user-friendly GUI built with **Java Swing**.
 - 🗨️ Real-time text messaging  
 - ✍️ Typing status indicator  
 - ⏰ Message timestamps  
-- 🎨 Intuitive GUI created with Java Swing  
+- 🎨 Intuitive GUI created with Java AWT & Swing  
 
 ---
 
